@@ -29,7 +29,7 @@ To read this book, see [book.asciidoc](https://github.com/ethereumbook/ethereumb
 
 The content status is "COMPLETE". The first edition of this book was published on December 1st, 2018. That edition is available in print and ebook format at many popular bookstores. It is tagged ["first_edition_first_print"](https://github.com/ethereumbook/ethereumbook/tree/first_edition_first_print) in the develop branch of this repository.
 
-At this time, **only bug fix requests are accepted**. If you find a bug, start an issue or better yet, fix the problem with a pull request. We will start work on the second edition in late 2019.
+At this time, **only bugs fix requests are accepted**. If you find a bug, start an issue or better yet, fix the problem with a pull request. We will start work on the second edition in late 2019.
 
 ## Source and license
 
@@ -41,6 +41,6 @@ This "Free Culture" compliant license was approved by our publisher O'Reilly Med
 
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" property="dct:title" rel="dct:type">Mastering Ethereum</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="https://ethereumbook.info" property="cc:attributionName" rel="cc:attributionURL">Andreas M. Antonopoulos, Gavin Wood</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.<br />Based on a work at <a xmlns:dct="http://purl.org/dc/terms/" href="https://github.com/ethereumbook/ethereumbook" rel="dct:source">https://github.com/ethereumbook/ethereumbook</a>.
 
-# Translate This Book!
+## Translate This Book!
 
 If you are interested in translating this book, please join our team of volunteers at: https://www.transifex.com/aantonop/ethereumbook
